@@ -1,4 +1,3 @@
-#NAME: Sung Min Ahn
 
 .SILENT:
 
