@@ -1,5 +1,5 @@
 This tarball file contains
-	lab4b.c : This is the source code for this project. It allows reading and outputting
+	lab_A.c : This is the source code for this project. It allows reading and outputting
 		the temperature and current time, accepts command from STDIN which can 
 		modify the program options. 
 		The beginning of the program accepts the following options
@@ -27,9 +27,9 @@ Referenced Websites:
 ...https://www.tutorialspoint.com/c_standard_library/c_function_strftime.htm
 ...https://www.geeksforgeeks.org/g-fact-41-setting-decimal-precision-in-c/
 ...https://www.disk91.com/2013/technology/hardware/beaglebone-black-temperature-sensor/
-
-
 ...https://www.cyberciti.biz/faq/unix-linux-test-existence-of-file-in-bash/
-...https://stackoverflow.com/questions/16931244/checking-if-output-of-a-command-contains-a-certain-string-in-a-shell-script?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+...https://stackoverflow.com/questions/16931244/checking-if-output-of-a-command-
+   contains-a-certain-string-in-a-shell-script?utm_medium=organic&utm_source=google_
+   rich_qa&utm_campaign=google_rich_qa
 
 
