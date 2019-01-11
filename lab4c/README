@@ -1,15 +1,13 @@
 NAME: Sung Min Ahn
-EMAIL: sungmin.sam5@gmail.com
-UID: 604949854
 
 Tarball file contains:
-	lab4c_tcp.c - This file is the source code where it obtains the host name, port # and
+	lab_B_tcp.c - This file is the source code where it obtains the host name, port # and
 		      server status URL for the TCP logging server, sends temperature and
 		      date to the server, and reads and performs commands received from
 		      server. The executable file created by this file requires 
 		      [--host=HostName], [--log=LogFile] and [--id=9DigitNumber] options.
 		     
-	lab4c_tls.c - This file is the source code where it obtains the host name, port # and
+	lab_B_tls.c - This file is the source code where it obtains the host name, port # and
 		      server status URL for the TLS logging server. This does the same thing
 		      as lab4c_tcp.c except it communicates through TLS connection.
 
