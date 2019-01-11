@@ -1,5 +1,3 @@
-#NAME: SungMin Ahn
-
 default: build
 
 build:
