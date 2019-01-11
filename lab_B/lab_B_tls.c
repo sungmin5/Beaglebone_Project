@@ -1,9 +1,3 @@
-/*
-Name: Sung Min Ahn
-EMAIL: sungmin.sam5@gmail.com
-UID:604949854
-*/
-
 #include<unistd.h>
 #include<stdio.h>
 #include<stdlib.h>
