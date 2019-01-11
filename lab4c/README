@@ -1,0 +1,36 @@
+NAME: Sung Min Ahn
+EMAIL: sungmin.sam5@gmail.com
+UID: 604949854
+
+Tarball file contains:
+	lab4c_tcp.c - This file is the source code where it obtains the host name, port # and
+		      server status URL for the TCP logging server, sends temperature and
+		      date to the server, and reads and performs commands received from
+		      server. The executable file created by this file requires 
+		      [--host=HostName], [--log=LogFile] and [--id=9DigitNumber] options.
+		     
+	lab4c_tls.c - This file is the source code where it obtains the host name, port # and
+		      server status URL for the TLS logging server. This does the same thing
+		      as lab4c_tcp.c except it communicates through TLS connection.
+
+	Makefile    - This is the Makefile for the Lab 4C. It builds executable files
+		      (lab4c_tls and lab4c_tcp), makes tarball file that includes files
+		      listed in this README, and cleans out all the output files created
+		      by Makefile.
+
+	README      - This contains information on files contained in the tarball file.
+		      It also contains helpful websites that were used for the project.
+
+
+
+Websites:
+**https://stackoverflow.com/questions/3016956/how-do-i-install-the-openssl-libraries-on-ubuntu/3016986#3016986
+
+**https://www.geeksforgeeks.org/sprintf-in-c/
+
+**http://fm4dd.com/openssl/sslconnect.htm
+
+**https://stackoverflow.com/questions/8257714/how-to-convert-an-int-to-string-in-c
+
+**https://stackoverflow.com/questions/5172107/c-string-and-int-concatenation
+
