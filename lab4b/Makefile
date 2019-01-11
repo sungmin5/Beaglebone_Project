@@ -1,6 +1,4 @@
 #NAME: SungMin Ahn
-#EMAIL: sungmin.sam5@gmail.com
-#UID: 604949854
 
 default: build
 
