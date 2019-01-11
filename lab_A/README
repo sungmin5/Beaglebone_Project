@@ -1,5 +1,3 @@
-NAME: SungMin Ahn
-
 This tarball file contains
 	lab4b.c : This is the source code for this project. It allows reading and outputting
 		the temperature and current time, accepts command from STDIN which can 
