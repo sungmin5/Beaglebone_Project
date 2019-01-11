@@ -1,8 +1,5 @@
 NAME: SungMin Ahn
-EMAIL: sungmin.sam5@gmail.com
-UID: 604949854
 
-SLIPDAYS: 1
 This tarball file contains
 	lab4b.c : This is the source code for this project. It allows reading and outputting
 		the temperature and current time, accepts command from STDIN which can 
@@ -38,13 +35,3 @@ Referenced Websites:
 ...https://stackoverflow.com/questions/16931244/checking-if-output-of-a-command-contains-a-certain-string-in-a-shell-script?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 
 
-NOTES:
-*** My sensor did not work, so I must find a way to get sensors to work. This is possibly
-manufacture fault since I've tried all their suggest ways to check whether they work or not.
-The sample codes they gave me did not recognize the sensor as well even though all the plugs
-are properly plugged in to the device.
-
-
-I checked the other part of the code by first disabling the initializing sensor and reading
-the temperature. Afterwards, I gave a random temperature to check whether the remaining part
-of the code works as the specification. 
